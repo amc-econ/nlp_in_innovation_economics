@@ -1,8 +1,6 @@
 # Using NLP in innovation and competition economics
 
-- This is the main repository for my research at KU Leuven. 
-
-- It contains several projects **applying natural language processing (NLP) algorithms to economic problems**.
+This is the main repository for my research at KU Leuven. It contains several projects **applying natural language processing (NLP) algorithms to economic problems**.
 
 ## Research projects
 
