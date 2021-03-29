@@ -2,7 +2,7 @@
 
 - This is the main repository for my research at KU Leuven. 
 
-- It is linked to a bunch of projects **applying natural language processing (NLP) algorithms to economic problems**.
+- It contains several projects **applying natural language processing (NLP) algorithms to economic problems**.
 
 ## Research projects
 
