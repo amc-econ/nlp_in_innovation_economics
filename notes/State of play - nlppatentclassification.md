@@ -5,6 +5,7 @@ created: '2021-03-29T17:07:00.257Z'
 modified: '2021-03-29T17:07:37.925Z'
 ---
 
+
 # State of play - nlp_patent_classification
 
 ## Robustness checks to perform to validate the model
