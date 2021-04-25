@@ -7,7 +7,7 @@
 #. With numbered lists Pandoc will figure out the correct numbering for you
     - Isn't that cool?
 
-#. You can mix math inline $x^2 + y^2 = z^2$ or in display mode:
+#. You can mix math inline $$x^2 + y^2 = z^2$$ or in display mode:
     $$
     \frac{a}{b} = \frac{c}{d} + \frac{e}{f}
     $$
