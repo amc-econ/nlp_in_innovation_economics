@@ -1,4 +1,4 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
 
 1. Level one heading
     - a bullet point
