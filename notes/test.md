@@ -11,6 +11,9 @@
     $$
     \frac{a}{b} = \frac{c}{d} + \frac{e}{f}
     $$
+    
+    
+    you can use an inline formula $$\forall x \in R$$ like this one
 
 #.  You can mix styles
     a) sublist with alphabetical
